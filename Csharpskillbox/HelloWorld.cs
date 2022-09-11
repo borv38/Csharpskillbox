@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HelloWorld
+namespace Csharpskillbox
 {
-    class Program
+    class ProgramHelloworld
     {
         static void Main(string[] args)
         {
