@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharppractic", "Csharpskillbox\Csharppractic.csproj", "{5002DFBF-FE97-4D51-9587-EC7CDFDF89AF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practic1", "Csharpskillbox\Practic1.csproj", "{5002DFBF-FE97-4D51-9587-EC7CDFDF89AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practic2", "Practic2\Practic2.csproj", "{CE481ED0-360B-45EA-A262-4F9CD3D859CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{5002DFBF-FE97-4D51-9587-EC7CDFDF89AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5002DFBF-FE97-4D51-9587-EC7CDFDF89AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5002DFBF-FE97-4D51-9587-EC7CDFDF89AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE481ED0-360B-45EA-A262-4F9CD3D859CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE481ED0-360B-45EA-A262-4F9CD3D859CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE481ED0-360B-45EA-A262-4F9CD3D859CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE481ED0-360B-45EA-A262-4F9CD3D859CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

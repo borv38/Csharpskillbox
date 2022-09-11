@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5002DFBF-FE97-4D51-9587-EC7CDFDF89AF}</ProjectGuid>
+    <ProjectGuid>{CE481ED0-360B-45EA-A262-4F9CD3D859CE}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Csharpskillbox</RootNamespace>
-    <AssemblyName>Csharpskillbox</AssemblyName>
+    <RootNamespace>Practic2</RootNamespace>
+    <AssemblyName>Practic2</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,8 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Practic2.cs" />
-    <Compile Include="HelloWorld.cs" />
+    <Compile Include="Variables.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
